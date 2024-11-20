@@ -16,6 +16,6 @@
 - Site Clonado: ``` Google ```
 - Obtendo o endereço da máquina: ``` ifconfig ``` ou usar ``` localhost ```
 
-### Resutados
+### Resultados
 
 ![Alt text](./passwd.png "Optional title")
